@@ -1,9 +1,11 @@
 # Medical No-Shows - Data Analysis & No-show Prediction
 
 ## Data Description
+
 Data set consists of 300k medical appointments and its 15 variables (characteristics) of each.
 
 #### Data Dictionary
+
 * PatientId : Patient unique Id
 * AppointmentID : Appointment ID of a patient
 * Gender : Male or Female
@@ -29,4 +31,4 @@ Data set consists of 300k medical appointments and its 15 variables (characteris
 ## Libraries used
 numpy, pandas, scikit learn, matplotlib, seaborn, plotly, cufflinks
 
-#### Some of the plots were missing/not rendered properly in github
+#### Some of the plots were missing/not rendered properly in github while uploading
